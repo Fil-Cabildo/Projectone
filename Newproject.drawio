@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="2">
   <diagram id="0q69Bqu0UyDHFKVJYiOM" name="Casos de uso">
-    <mxGraphModel dx="580" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF, #00458f)" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF, #00458f)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,6 +169,11 @@
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-40" edge="1" parent="1" source="wTgsWse1qY5ZkGqskCVZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;dashed=1;" target="wTgsWse1qY5ZkGqskCVZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wTgsWse1qY5ZkGqskCVZ-98" connectable="0" parent="wTgsWse1qY5ZkGqskCVZ-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Use" vertex="1">
+          <mxGeometry relative="1" x="-0.5629" y="-4" as="geometry">
+            <mxPoint x="62" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Modificar Usuarios" vertex="1">
           <mxGeometry height="50" width="120" x="200" y="640" as="geometry" />
         </mxCell>
@@ -292,6 +297,18 @@
         </mxCell>
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Use" vertex="1">
           <mxGeometry height="30" width="60" x="390" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="wTgsWse1qY5ZkGqskCVZ-100" edge="1" parent="1" source="wTgsWse1qY5ZkGqskCVZ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="430" />
+              <mxPoint x="530" y="430" />
+            </Array>
+            <mxPoint x="400" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wTgsWse1qY5ZkGqskCVZ-99" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;fontFamily=Helvetica;labelPosition=center;align=center;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="30" x="660" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
