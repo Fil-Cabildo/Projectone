@@ -22,6 +22,15 @@
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="Registrar Equipos Médicos" vertex="1">
           <mxGeometry height="50" width="120" x="200" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="wTgsWse1qY5ZkGqskCVZ-35" edge="1" parent="1" source="wTgsWse1qY5ZkGqskCVZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="345" />
+              <mxPoint x="560" y="590" />
+            </Array>
+            <mxPoint x="330" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="Registrar Solicitud" vertex="1">
           <mxGeometry height="50" width="120" x="200" y="320" as="geometry" />
         </mxCell>
@@ -82,8 +91,8 @@
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" value="Solicitudes" vertex="1">
           <mxGeometry height="40" width="100" x="363" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="wTgsWse1qY5ZkGqskCVZ-29" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Actor" vertex="1">
-          <mxGeometry height="60" width="30" x="50" y="150" as="geometry" />
+        <mxCell id="wTgsWse1qY5ZkGqskCVZ-29" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="180" as="geometry" />
         </mxCell>
         <mxCell id="wTgsWse1qY5ZkGqskCVZ-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;font face=&quot;Helvetica&quot;&gt;Identificar Usuario&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" x="390" y="30" as="geometry" />
